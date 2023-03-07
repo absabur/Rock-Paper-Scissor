@@ -105,6 +105,27 @@ p{
 .user-header,.computer-header{
     font-size: 1.5rem;
 }
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+}
+.footer-menu > a{
+    padding: 10px;
+    text-decoration: none;
+    color: aqua;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.footer-menu > a:hover{
+    box-shadow: 0 4px 8px 0 aqua;
+}
+
 @media screen and (max-width: 992px) {
     .result-img{
         width: 250px;
