@@ -141,6 +141,9 @@ p{
     .footer-desc{
         margin-top: 1.5rem;
     }
+    .footer-menu > a{
+        font-size: 0.7rem;
+    }
   }
   
   /* On screens that are 600px or less */
