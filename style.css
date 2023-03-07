@@ -137,6 +137,7 @@ p{
     }
     .footer{
         flex-direction: column;
+        font-size: 0.7rem;
     }
     .footer-desc{
         margin-top: 1.5rem;
