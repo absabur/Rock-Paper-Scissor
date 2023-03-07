@@ -134,6 +134,12 @@ p{
     .user-header,.computer-header{
         font-size: 1rem;
     }
+    .footer{
+        flex-direction: column;
+    }
+    .footer-desc{
+        margin-top: 1.5rem;
+    }
   }
   
   /* On screens that are 600px or less */
