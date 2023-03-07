@@ -6,6 +6,7 @@ body{
 }
 .container{
     padding-bottom: 30px;
+    height: 120vh;
 }
 
 .button-div{
